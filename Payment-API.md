@@ -101,7 +101,7 @@ This web service can be used to retrieve the specified logo of a client in Base6
 |-----------|----------|----------|-------------|
 | n/a       |          |          |             | 
 
-**Response Data**~~~~
+**Response Data**
 
 | Parameter            | Meaning                                                                                                                             |
 |----------------------|-------------------------------------------------------------------------------------------------------------------------------------|
@@ -469,5 +469,5 @@ This web service is used to return the result of payment instruction executions 
 ### Example: entire process of setting up a charging station as well as a charging process
 
 
-![](/Sequence_Diagrams/Full Sequence Diagram.svg "Full Sequence Diagram")
+![](/Sequence_Diagrams/FullSequenceDiagram.png "Full Sequence Diagram")
  
